@@ -1,0 +1,41 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#menu_47bc8f75 a { text-decoration: none; }
+#menu_47bc8f75_pane { background-color: #E6E6E6; border: 1px solid #000000; padding-top: 10px; padding-bottom: 10px; border-radius: 15px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
+#menu_47bc8f75_hr { background-color: #000000; height: 1px; border: none; }
+#menu_47bc8f75_entry { padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; }
+#menu_47bc8f75_entry:hover { background-color: #323232; color: #FFFFFF !important; }
+#menu_47bc8f75_entry:hover span { color:#FFFFFF !important; }
+		.menu_47bc8f75_mainMenuEntry { text-align: center; }
+		.menu_47bc8f75_mainMenuEntry:hover {	background-color:#282828; }
+		.menu_47bc8f75_mainMenuEntry:hover span {	color:#FFFFFF !important; }
+		#menu_47bc8f75 .mobileEntry { display: none; } 
+		#menu_47bc8f75 .normalEntry { display: block; } 
+		@media only screen and (max-width:600px) { 
+			#menu_47bc8f75 .mobileEntry { display: block; } 
+			#menu_47bc8f75 .normalEntry { display: none; } 
+		}
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#container_7ecb5c5f { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:350px; background-color:#F2F2D8; background-image: url(rc_images/climate_change_results_illustration.jpg); background-position:top left; background-size:cover;  }
+#container_7ecb5c5f_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:left; }
+#container_5d6fd260 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:220px; background:none;  }
+#container_5d6fd260_padding { margin: 10px; display: block;  }
+.textstyle3 { text-align:justify; }
+.textstyle4 { font-size:26pt; font-family:Corbel, Avenir, Montserrat, 'URW Gothic', source-sans-pro, sans-serif; color:#389B51; font-weight:bold;  }
+#menu_47bc8f75 { box-sizing: border-box; vertical-align: bottom; border-radius: 15px; position:relative; display: inline-block; width:100%; height:38px; text-align:left; background:none; border: 0px solid #A0A0A0;  }
+.menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
+.menustyle1 { position:absolute; width:37px; height:38px; left:10px;  }
+.menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:33px;  }
+.textstyle5 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.menustyle2 { position:absolute; width:67px; height:38px; left:10px;  }
+.menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:18px;  }
+.textstyle6 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.menustyle3 { position:absolute; width:96px; height:38px; left:77px;  }
+.menustyle4 { position:absolute; width:74px; height:38px; left:173px;  }
+.menustyle5 { position:absolute; width:101px; height:38px; left:247px;  }
+.menustyle6 { position:absolute; width:105px; height:38px; left:348px;  }
+#placeh_3a41f573 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:602px; border: 1px solid #A0A0A0;  }
