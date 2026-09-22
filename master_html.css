@@ -19,7 +19,7 @@ a:hover { color:#B2B3B4; }
 		}
 body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .textstyle1 { text-align:center; }
-#container_7ecb5c5f { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:350px; background-color:#F2F2D8; background-image: (climate_change_results_illustration.jpg); background-position:top left; background-size:cover;  }
+#container_7ecb5c5f { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:350px; background-color:#F2F2D8; background-image: url(rc_images/climate_change_results_illustration.jpg); background-position:top left; background-size:cover;  }
 #container_7ecb5c5f_padding { margin: 10px; display: block;  }
 .textstyle2 { text-align:left; }
 #container_5d6fd260 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:220px; background:none;  }
